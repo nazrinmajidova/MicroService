@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\nazrinamai\\desktop\\mycustomproject\\hangfireapplication\\hangfireapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\nazrinamai\\desktop\\mycustomproject\\hangfireapplication\\hangfireapplication\\controllers\\jobssearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\controllers\\jobssearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\nazrinamai\\desktop\\mycustomproject\\hangfireapplication\\hangfireapplication\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|c:\\users\\nazrinamai\\desktop\\mycustomproject\\hangfireapplication\\hangfireapplication\\configuration\\rabbitmqconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB489AE4-9518-405B-8CC2-86960302E47A}|HangFireApplication\\HangFireApplication.csproj|solutionrelative:hangfireapplication\\configuration\\rabbitmqconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "HangFireApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\appsettings.json",
+              "RelativeToolTip": "HangFireApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T05:49:06.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\Controllers\\JobsSearchController.cs",
+              "RelativeDocumentMoniker": "HangFireApplication\\Controllers\\JobsSearchController.cs",
+              "ToolTip": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\Controllers\\JobsSearchController.cs",
+              "RelativeToolTip": "HangFireApplication\\Controllers\\JobsSearchController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:27:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\Configuration\\RabbitMqConfiguration.cs",
+              "RelativeDocumentMoniker": "HangFireApplication\\Configuration\\RabbitMqConfiguration.cs",
+              "ToolTip": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\Configuration\\RabbitMqConfiguration.cs",
+              "RelativeToolTip": "HangFireApplication\\Configuration\\RabbitMqConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:47:22.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\app.http",
+              "RelativeDocumentMoniker": "HangFireApplication\\app.http",
+              "ToolTip": "C:\\Users\\nazrinamai\\Desktop\\MyCustomProject\\HangFireApplication\\HangFireApplication\\app.http",
+              "RelativeToolTip": "HangFireApplication\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T09:38:23.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
